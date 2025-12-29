@@ -8,5 +8,6 @@ public class Main{
         TodoJava.Operadores.run();
         TodoJava.AuxiliarVariable.run();
         TodoJava.Condicionales.run();
+        TodoJava.CondicionalSwitch.run();
     }
 }
