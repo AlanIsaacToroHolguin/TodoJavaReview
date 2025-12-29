@@ -10,6 +10,7 @@ public class Main{
         TodoJava.Condicionales.run();
         TodoJava.CondicionalSwitch.run();
         TodoJava.CondicionalesExercise.run();
+        TodoJava.OperadorTernario.run();
 
     }
 }
