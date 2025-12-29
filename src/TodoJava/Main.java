@@ -7,5 +7,6 @@ public class Main{
         TodoJava.Variables.run();
         TodoJava.Operadores.run();
         TodoJava.AuxiliarVariable.run();
+        TodoJava.Condicionales.run();
     }
 }
