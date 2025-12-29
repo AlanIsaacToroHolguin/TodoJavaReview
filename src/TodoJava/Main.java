@@ -9,5 +9,7 @@ public class Main{
         TodoJava.AuxiliarVariable.run();
         TodoJava.Condicionales.run();
         TodoJava.CondicionalSwitch.run();
+        TodoJava.CondicionalesExercise.run();
+
     }
 }
