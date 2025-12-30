@@ -14,8 +14,8 @@ public class While {
         boolean centinel = true;
 
         while (centinel == true){
-            System.out.println("El valor de el centinela es "+ centinel);
-
+            System.out.println("El valor de el centinela es"+ centinel);
+            centinel = false;
         }
 
 

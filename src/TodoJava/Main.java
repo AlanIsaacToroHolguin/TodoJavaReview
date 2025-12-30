@@ -12,6 +12,7 @@ public class Main{
         TodoJava.CondicionalesExercise.run();
         TodoJava.OperadorTernario.run();
         TodoJava.While.run();
+        TodoJava.For.run();
 
     }
 }
