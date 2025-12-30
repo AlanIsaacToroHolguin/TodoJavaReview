@@ -11,6 +11,7 @@ public class Main{
         TodoJava.CondicionalSwitch.run();
         TodoJava.CondicionalesExercise.run();
         TodoJava.OperadorTernario.run();
+        TodoJava.While.run();
 
     }
 }
