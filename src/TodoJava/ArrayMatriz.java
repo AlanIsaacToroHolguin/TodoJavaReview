@@ -1,6 +1,7 @@
 
 package TodoJava;
 
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class ArrayMatriz {
@@ -42,8 +43,10 @@ public class ArrayMatriz {
             }
             System.out.println();
         }
-
-        teclado.close();
     }
 }
+
+
+
+
 

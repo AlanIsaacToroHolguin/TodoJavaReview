@@ -13,8 +13,8 @@ public class Main{
         //TodoJava.OperadorTernario.run();
         //TodoJava.While.run();
         //TodoJava.For.run();
-        TodoJava.ArrayVectores.run();
-        //TodoJava.ArrayMatriz.run();
+        //TodoJava.ArrayVectores.run();
+        TodoJava.ArrayMatriz.run();
 
     }
 }
